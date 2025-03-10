@@ -1,13 +1,14 @@
-# eBike USA - Web-Based Project
+# eBike USA - Web-Based Project 
 
 Welcome to the **eBike USA** website! This project showcases an interactive and visually stunning platform for eBike enthusiasts in the United States. The website highlights the latest in electric bicycle technology, offers an intuitive interface for users to explore various eBike models, and provides a seamless browsing experience.
 
 ## Demo
 
-![eBike USA Website Demo home](image/001.jpeg)
-![eBike USA Website Demo contact](image/002.jpeg)
-![eBike USA Website Demo about](image/003.jpeg)
+![eBike USA Website Demo home](image/001.jpeg)  
+![eBike USA Website Demo contact](image/002.jpeg)  
+![eBike USA Website Demo about](image/003.jpeg)  
 
+Here’s the **[Demo Video](https://www.linkedin.com/posts/talha-masood-1st-7a8036285_ebike-laravel-javascript-activity-7301191717137858560-SZ8M?utm_source=share&utm_medium=member_android&rcm=ACoAAEU87_ABU3MT67sR-3fwY06dGiLqMK5waZ4)** to see the project in action!
 
 ## Features
 
