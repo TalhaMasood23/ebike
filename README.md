@@ -41,4 +41,4 @@ Make sure you have a modern web browser installed (e.g., Google Chrome, Firefox,
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/TalhaMasood23/bicycyle-private
+   git clone https://github.com/TalhaMasood23/ebike
