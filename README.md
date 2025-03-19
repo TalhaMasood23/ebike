@@ -1,6 +1,6 @@
 # eBike USA - Web-Based Project 
 
-Welcome to the **eBike USA** website! This project showcases an interactive and visually stunning platform for eBike enthusiasts in the United States. The website highlights the latest in electric bicycle technology, offers an intuitive interface for users to explore various eBike models, and provides a seamless browsing experience.
+Welcome to **eBike USA** website! This project showcases an interactive and visually stunning platform for eBike enthusiasts in the United States. The website highlights the latest in electric bicycle technology, offers an intuitive interface for users to explore various eBike models, and provides a seamless browsing experience.
 
 ## Demo
 
